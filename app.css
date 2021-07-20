@@ -1,0 +1,51 @@
+header {
+    color: black;
+}
+
+
+
+body {
+    background-image: url("images/victor-hughes-y6YcGE_Li5E-unsplash.jpg");
+    background-color: #ccc;
+    line-height: 1.5;
+    text-align: center;
+    
+    
+}
+
+form {
+    
+    color: white;
+    font-weight: 1000;
+   
+}
+
+.container {
+    background: rgb(73, 73, 214, 0.5);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: pink 3px solid;
+    border-radius: 25px;
+    max-width: 700px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    opacity: 1.0;
+    
+}
+
+.comments {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+label {
+text-align: left;
+}
